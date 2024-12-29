@@ -118,14 +118,6 @@ unset($_SESSION["nameErr"],$_SESSION["emailErr"], $_SESSION["roleErr"],$_SESSION
         </div>
     </div>
 
-
-    <!-- Footer -->
-    <footer class="bg-blue-600 text-white p-4">
-        <div class="container mx-auto text-center">
-            <p>&copy; 2024 KSBlog. Tous droits réservés.</p>
-        </div>
-    </footer>
-
 </body>
 
 </html>
